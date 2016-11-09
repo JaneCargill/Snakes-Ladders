@@ -7,7 +7,7 @@ class Dice
   end
 
 def roll
-  return 8
+  return 1 + rand(6)
 end
 
 end
